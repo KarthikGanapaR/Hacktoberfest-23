@@ -3,10 +3,10 @@
   <img src="https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/1100x640%20Hacktober%20fest%20header.png"> 
 </p>
 <p align="center">
-   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/sherigar/HacktoberFest-2023">
-   <img alt="GitHub forks" src="https://img.shields.io/github/forks/sherigar/HacktoberFest-2023">
-   <img alt="contributors" src="https://img.shields.io/github/contributors/sherigar/HacktoberFest-2023">
-   <img alt="GitHub stars" src="https://img.shields.io/github/stars/sherigar/HacktoberFest-2023">
+   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/KarthikGanapaR/Hactoberfest-23">
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks/KarthikGanapaR/Hactoberfest-23">
+   <img alt="contributors" src="https://img.shields.io/github/contributors/KarthikGanapaR/Hactoberfest-23">
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/KarthikGanapaR/Hactoberfest-23">
 </p>
 
 ## Contributors of `Hacktoberfest 2023`
@@ -14,7 +14,7 @@
 <div align="center">
 
 <a href="https://github.com/sherigar/HacktoberFest-2023/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sherigar/HacktoberFest-2023" />
+  <img src="https://contrib.rocks/image?repo=KarthikGanapaR/Hactoberfest-23" />
 </a>
   
 </div>
